@@ -1,0 +1,3 @@
+Rust programs can read text from files.
+Paths help locate data on different systems.
+Handle I/O errors with Result values.
