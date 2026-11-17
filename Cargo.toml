@@ -1,0 +1,10 @@
+[workspace]
+resolver = "2"
+members = [
+    "days/19-testing-and-debugging/examples/testable-math",
+    "days/21-serialization-and-deserialization/examples/json_tasks",
+    "days/23-async-rust-fundamentals/examples/tokio-greeting",
+    "days/25-working-with-external-crates/examples/grapheme-count",
+    "days/28-code-quality-and-documentation/examples/quality-kit",
+    "projects/cli-task-manager",
+]

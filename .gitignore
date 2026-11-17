@@ -1,0 +1,9 @@
+/target/
+**/target/
+tasks.json
+tasks-*.json
+.env
+.env.*
+!.env.example
+config.local
+config.local.*
