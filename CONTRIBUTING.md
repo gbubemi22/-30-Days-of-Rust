@@ -22,3 +22,5 @@ Use stable Rust and format code with rustfmt. Before submitting a change, run th
 ## Pull requests
 
 Describe what changed, which lessons or examples it affects, and what checks you ran. For incomplete material, state what remains so the course progress is clear.
+
+By submitting a contribution, you agree to make it available under the repository's MIT or Apache-2.0 license, at users' option. You retain copyright in your contribution.

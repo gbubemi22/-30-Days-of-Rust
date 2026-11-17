@@ -98,4 +98,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for lesson format and contribution guidan
 
 ## License
 
-The material in this repository is licensed under the [MIT License](LICENSE), unless a file or third-party dependency states otherwise. Rust, Cargo, and the Rust project are trademarks and projects of their respective maintainers; this course is community material.
+The material in this repository is available under either the [MIT License](LICENSE-MIT) or [Apache License, Version 2.0](LICENSE-APACHE), at your option. Third-party dependencies retain their own licenses. Rust, Cargo, and the Rust project are maintained by their respective communities; this course is independent community material.
